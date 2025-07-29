@@ -1,6 +1,6 @@
 # BoraJogar
 
-Gerencie partidas de futsal e society de forma simples e eficiente. Este projeto utiliza MongoDB para estruturar os dados de usuários, quadras e jogos, com foco em usabilidade e performance.
+Gerencie jogos esportivos de forma simples e eficiente. Este projeto utiliza MongoDB para estruturar os dados de usuários, quadras e jogos, com foco em usabilidade e performance.
 
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-green)
 ![Node.js](https://img.shields.io/badge/Backend-Node.js-blue)
