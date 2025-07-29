@@ -1,0 +1,14 @@
+{
+  "name": "borajogar-nosql",
+  "version": "1.0.0",
+  "main": "insertUsuarios.js",
+  "scripts": {
+    "insertUsuarios": "node insertUsuarios.js",
+    "insertJogos": "node insertJogos.js",
+    "insertQuadras": "node insertQuadras.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mongodb": "^5.0.0"
+  }
+}
